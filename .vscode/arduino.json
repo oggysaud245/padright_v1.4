@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "padright_v1.4.ino",
+    "port": "COM7"
+}
